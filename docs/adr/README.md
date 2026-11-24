@@ -12,4 +12,6 @@ All decisions below are **proposed**, not accepted or implemented. For each, eva
 | ADR-006 | Configurable, department-specific, effective-dated KPIs | Hardcode definitions or rank departments by volume; configuration requires governance | T06–T07 |
 | ADR-007 | DEV/UAT/PROD and baseline-based feedback triage | Direct deployment or phased release; environment cost and approval overhead | T11 |
 
+| ADR-008 | [Separate reporting and administration experiences](ADR-008.md) | Unified app or embedded actions; separate interfaces add navigation and deployment overhead | Validate audience, security, licensing and independent operation |
+
 Data platform, Power Apps, Power BI and orchestration choices remain open. The repository name and original description do not constitute a technology decision.
